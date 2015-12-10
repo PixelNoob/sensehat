@@ -4,7 +4,6 @@ sense = SenseHat()
 
 X = [0, 100, 0] # Green
 O = [0, 0, 0] # Black
-W = [255, 255, 255]  # White
 B = [139, 69, 19] # Brown
 
 xmas_tree= [
