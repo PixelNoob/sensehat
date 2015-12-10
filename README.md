@@ -1,2 +1,2 @@
 # sensehat
-Raspberry Pi's Sense Hat Projects
+Raspberry Pi's Sense Hat Pixel Projects
